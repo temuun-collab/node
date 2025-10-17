@@ -30,7 +30,8 @@ async await then catch resolve reject finally chain callback hell promise resolv
 symbol iterator generator yield next return break continue label jump goto
 package.json scripts dependencies devDependencies version description author license
 github action workflow job step run shell bash zsh sh command exec spawn
-ci cd pipeline build deploy release artifact rollback hotfix patch upgrade bananas are for monkeys library framework sdk api cli gui tui ui ux design wireframe prototype user flow
+ci cd pipeline build deploy release artifact rollback hotfix patch upgrade bananas
+are for monkeys library framework sdk api cli gui tui ui ux design wireframe prototype user flow
 internet http https tcp udp socket connect disconnect handshake packet response
 image jpg png gif svg webp bmp convert resize crop optimize compress decompress
 video mp4 mkv avi webm h264 h265 codec transcode bitrate fps frame render buffer
